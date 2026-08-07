@@ -1,6 +1,6 @@
 local CurrentGameId = game.GameId
 local SupportedGames = {
-    [994732206]  = "https://raw.githubusercontent.com/Dev-VoltHub/Bloxfruit/refs/heads/main/volt.lua",             -- Blox Fruits
+    [994732206]  = "https://api.luarmor.net/files/v4/loaders/b79bf9b48f9f855ecadaf879d3a3c79c.lua",             -- Blox Fruits
     [7709344486] = "https://raw.githubusercontent.com/Dev-VoltHub/StealBrainrot/refs/heads/main/Volt.lua",         -- Steal a Brainrot
     [7326934954] = "https://raw.githubusercontent.com/Dev-VoltHub/99NightsFlorest/refs/heads/main/volt.lua",       -- 99 Nights in the Forest
 }
